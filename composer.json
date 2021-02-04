@@ -1,11 +1,11 @@
 {
-    "name": "oseintow/laravel-shopify",
+    "name": "hirenkeraliya/laravel-shopify",
     "description": "Laravel shopify package",
     "license": "MIT",
     "authors": [
         {
-            "name": "michael osei ntow",
-            "email": "oseintow@gmail.com"
+            "name": "Hiren Keradiya",
+            "email": "hirenkeradiya@gmail.com"
         }
     ],
     "require": {
